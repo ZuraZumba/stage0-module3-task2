@@ -11,13 +11,6 @@ public class JavaVariableNames {
         int star = 1000000;
         int badExampleOfVarName = 1000000;
 
-        System.out.println(tomorrow);
-        System.out.println(money);
-        System.out.println(hundred);
-        System.out.println(back);
-        System.out.println(underscore);
-        System.out.println(sharp);
-        System.out.println(star);
-        System.out.println(badExampleOfVarName);
+
     }
 }

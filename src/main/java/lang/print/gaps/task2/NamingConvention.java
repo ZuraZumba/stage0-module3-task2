@@ -12,14 +12,5 @@ public class NamingConvention {
         int variableSeven = 7;
         int variableEight = 8;
 
-        System.out.println("variable: " + variable);
-        System.out.println("variable_one: " + variable_one);
-        System.out.println("variableTwo: " + variableTwo);
-        System.out.println("variable_three: " + variable_three);
-        System.out.println("VARIABLE_FOUR: " + VARIABLE_FOUR);
-        System.out.println("VARIABLE_FIVE: " + VARIABLE_FIVE);
-        System.out.println("variableSix: " + variableSix);
-        System.out.println("variableSeven: " + variableSeven);
-        System.out.println("variableEight: " + variableEight);
-    }
+        }
 }
